@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+jahad_bot.db
+.env
